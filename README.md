@@ -20,3 +20,11 @@
 <a href="https://www.youtube.com/channel/UCOFN8wsnOdMcYaiitDUTdxw/">
   <img align="left" alt="Fahim's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<br>
+<br>
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-ash&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
