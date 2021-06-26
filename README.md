@@ -18,5 +18,5 @@
   <img align="left" alt="Fahim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCOFN8wsnOdMcYaiitDUTdxw/">
-  <img align="left" alt="Fahim's Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" />
+  <img align="left" alt="Fahim's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
