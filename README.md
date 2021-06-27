@@ -22,7 +22,12 @@
 </a>
 <br>
 <br>
-
+- 🔭 I’m currently Intern at [Bay it] (https://bayit.com.bd/) 
+</br>- 🌱 I’m currently learning JavaScript, Blockchain.
+</br>- 🤔 I’m looking for web developer/jr. soft. engineer post.  
+</br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
+</br>- ⚡ Fun fact: I used to be professional esports player.  
+<br><br>
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&theme=dracula" />
 </a>
