@@ -28,8 +28,12 @@
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
 </br>- ⚡ Fun fact: I used to be professional esports player.  
 <br><br>
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&theme=dracula" />
+<a href="https://github.com/fahim-ash">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-ash&show_icons=true&theme=dracula" alt="Fahim's github stats"/>
+  </a>
+<a href="https://github.com/fahim-ash/github-readme-stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-ash&show_icons=true&theme=dracula" alt="Pawan's github stats"/>
+
+
