@@ -22,7 +22,6 @@
 </a>
 <br>
 <br>
-- 🔭 I’m currently Intern at [Bay it] (https://bayit.com.bd/) 
 </br>- 🌱 I’m currently learning JavaScript, Blockchain.
 </br>- 🤔 I’m looking for web developer/jr. soft. engineer post.  
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
