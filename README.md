@@ -22,17 +22,11 @@
 </a>
 <br>
 <br>
-</br>- 🌱 I’m currently learning JavaScript, Blockchain.
+</br>- 🌱 I’m currently learning ReactJs, NodeJs.
 </br>- 🤔 I’m looking for web developer/jr. soft. engineer post.  
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
 </br>- 🤖 Coding Practice: Uri (https://www.beecrowd.com.br/judge/en/profile/120543) ,leetcode (https://leetcode.com/fahim_ash/)
 </br>- ⚡ Fun fact: I used to be professional esports player. 
-
-<br><br>
-<a href="https://github.com/fahim-ash">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-ash&show_icons=true&theme=dracula" alt="Fahim's github stats"/>
-  </a>
-<a href="https://github.com/fahim-ash/github-readme-stats">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&layout=compact&theme=dracula" />
 </a>
