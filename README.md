@@ -32,9 +32,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&layout=compact&theme=dracula" />
 </a>
 </br>
-<b>&#128200; Problem solving</b>
+<b>&#128200; LeetCode</b>
 </br>
+
 <p float="left">
   
-<img height="150em" src="https://leetcard.jacoblin.cool/fahim_ash?theme=nord&font=Consolas&ext=contest" />
+<img height="165px" width ="350px" src="https://leetcard.jacoblin.cool/fahim_ash?theme=nord&font=Consolas&ext=contest" />
 </p>
