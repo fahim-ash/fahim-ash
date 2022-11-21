@@ -22,7 +22,7 @@
 <br>
 <br>
 </br>- 🌱 I’m currently learning ReactJs, NodeJs.
-</br>- 🤔 I’m looking for web developer/jr. soft. engineer post.  
+</br>- 👨‍💻 Software Engineer at Divine IT ltd.  
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
 </br>- 🤖 Coding Practice: Uri (https://www.beecrowd.com.br/judge/en/profile/120543) ,leetcode (https://leetcode.com/fahim_ash/)
 </br>- ⚡ Fun fact: I used to be professional esports player. 
