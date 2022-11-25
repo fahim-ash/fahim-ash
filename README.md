@@ -29,13 +29,8 @@
 </br>
 </br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&layout=compact&theme=dracula" />
-</a>
-</br>
-<b>&#128200; LeetCode</b>
-</br>
-
+<b>&#128200;Random Stats</b>
 <p float="left">
-  
-<img height="165px" width ="350px" src="https://leetcard.jacoblin.cool/fahim_ash?theme=nord&font=Consolas&ext=contest" />
+ <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="260em" src="https://leetcard.jacoblin.cool/fahim_ash?theme=light&font=Karma&ext=contest" />
 </p>
