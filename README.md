@@ -16,12 +16,9 @@
 <a href="https://www.facebook.com/fahim.ashab.58/">
   <img align="left" alt="Fahim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCOFN8wsnOdMcYaiitDUTdxw/">
-  <img align="left" alt="Fahim's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <br>
 <br>
-</br>- 🌱 I’m currently learning how to print "Hello world"
+</br>- 🌱 Informatin and Communication Graduate - BUP
 </br>- 👨‍💻 Software Engineer at Divine IT ltd.  
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
 </br>- 🤖 Coding Practice: Uri (https://www.beecrowd.com.br/judge/en/profile/120543) ,leetcode (https://leetcode.com/fahim_ash/)
