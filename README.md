@@ -18,7 +18,7 @@
 </a>
 <br>
 <br>
-</br>- 🌱 Informatin and Communication Graduate - BUP
+</br>- 🌱 Information and Communication Engineering Graduate - BUP
 </br>- 👨‍💻 Software Engineer at Divine IT ltd.  
 </br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58) , [Twitter - @fahim_ash](https://twitter.com/fahim_ash)
 </br>- 🤖 Coding Practice: Uri (https://www.beecrowd.com.br/judge/en/profile/120543) ,leetcode (https://leetcode.com/fahim_ash/)
