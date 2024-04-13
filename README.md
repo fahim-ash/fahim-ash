@@ -26,5 +26,5 @@
 <b>&#128200;Random Stats</b>
 <p float="left">
  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ash&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img height="260em" src="https://leetcard.jacoblin.cool/fahim_ash?theme=light&font=Karma&ext=contest" />
+  <img height="260em" src="https://leetcard.jacoblin.cool/fahim_ash?theme=wtf&font=JetBrains%20Mono&ext=contest" />
 </p>
