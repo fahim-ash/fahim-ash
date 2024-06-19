@@ -17,8 +17,8 @@
 <br>
 </br>- 🌱 Information and Communication Engineering Graduate - BUP
 </br>- 👨‍💻 Software Engineer at Divine IT ltd.  
-</br>- 📫 How to reach me: [Facebook - @fahim.ashab.58](https://facebook.com/fahim.ashab.58)
-</br>- 🤖 Coding Practice: Uri (https://www.beecrowd.com.br/judge/en/profile/120543) ,leetcode (https://leetcode.com/fahim_ash/)
+</br>- 📫 How to reach me: ashhabfahim@gmail.com 
+</br>- 🤖 Coding Practice: Leetcode (https://leetcode.com/fahim_ash/)
 </br>- ⚡ Fun fact: I used to be professional esports player. 
 </br>
 </br>
