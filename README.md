@@ -16,7 +16,7 @@
 <br>
 <br>
 </br>- 🌱 Information and Communication Engineering Graduate - BUP
-</br>- 👨‍💻 Software Engineer at Divine IT ltd.  
+</br>- 👨‍💻 Software Engineer at TechnoNext Software ltd.  
 </br>- 📫 How to reach me: ashhabfahim@gmail.com 
 </br>- 🤖 Coding Practice: Leetcode (https://leetcode.com/fahim_ash/)
 </br>- ⚡ Fun fact: I used to be professional esports player. 
